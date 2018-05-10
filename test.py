@@ -73,7 +73,6 @@ if __name__ == '__main__':
         id_list=[1, 2, 3],
     )
 
-
     validate_data2 = dict(
         phone='13123456789',
         id_list=[1, 2, 3],
